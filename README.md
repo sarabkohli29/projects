@@ -1,3 +1,6 @@
+The complete code about Martha's Calendar is in the `components` folder
+The css is in the `styles` folder, f
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
